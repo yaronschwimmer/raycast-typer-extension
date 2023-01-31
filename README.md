@@ -4,7 +4,9 @@ This is an [extension](https://github.com/raycast/extensions) for [Raycast](http
 >Note: This extension probably won't be published on the Raycast store, since it auto-generates commands, and doesn't have a static manifest.
 
 ## Prerequisites
-You need to have [Raycast](https://www.raycast.com/) installed on your system (Mac only).
+1. [Raycast](https://www.raycast.com/) installed on your system (Mac only).
+2. NodeJS (version >= 16) + npm
+3. [jq](https://stedolan.github.io/jq/)
 
 ## Usage
 1. Clone the repository into your local machine.

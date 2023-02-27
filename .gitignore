@@ -5,7 +5,3 @@
 
 # misc
 .DS_Store
-
-# logic
-src/*.ts
-strings.json

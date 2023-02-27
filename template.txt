@@ -1,4 +1,0 @@
-import { Clipboard } from "@raycast/api";
-export default async function main() {
-  await Clipboard.paste(##value##);
-}

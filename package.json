@@ -4,7 +4,6 @@
   "title": "Typer - Custom Text Hotkey",
   "description": "An extension for the lazy typer.\nAdd any text you type on a regular basis into commands. Give each command an alias and a hotkey, and save time on typing.",
   "icon": "command-icon.png",
-  "owner": "yaronschwimmer",
   "author": "yaronschwimmer",
   "categories": [
     "Productivity"
